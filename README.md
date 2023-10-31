@@ -1,4 +1,4 @@
-# Html-Css Online Counter
+# Html-Css Counter
 
 Decrease and increase the number with two buttons
 
